@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFirstProject_GR</string>
+    <string name="tvText">Welcome</string>
+    <string name="btnText">Enter</string>
+
+</resources>
